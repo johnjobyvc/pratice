@@ -14,4 +14,5 @@ print "test";
 TESTNEW#########################
 #################
 echo "NEWW COMM";
+echo "My new test language test";
 ?>
