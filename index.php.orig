@@ -15,10 +15,13 @@ TESTNEW#########################
 #################
 MAIN TWO BRANCH;
 echo "NEWW COMM";
+<<<<<<< HEAD
+echo "18 EXAMPLE OF REBASE";
+=======
 sdafasf
 sad
 fas
 df
 asdf
-echo "18 EXAMPLE OF REBASE";
+>>>>>>> pratice/main
 ?>
