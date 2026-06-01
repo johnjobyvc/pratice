@@ -8,4 +8,5 @@ asd
 f
 sad
 f
+print "test";
 ?>
