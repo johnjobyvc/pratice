@@ -25,4 +25,5 @@ echo "18 EXAMPLE OF REBASE";
 NEW ADDED 6/6/2024S
 echo 'FORCE PUSH';
 NEW LINE AEED 7:07 PM;
+<<<pre>>>  SECOND PRE<<</pre>>>
 ?>
